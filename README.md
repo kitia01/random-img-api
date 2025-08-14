@@ -18,16 +18,16 @@
 ```
 'imageGroups': {
   'background_mobile': [
-    'https://images.3865472.xyz/file/mobile1.jpg',
-    'https://images.3865472.xyz/file/mobile2.jpg',
+    'https://imgbed.3865472.xyz/file/mobile1.jpg',
+    'https://imgbed.3865472.xyz/file/mobile2.jpg',
   ],
   'background_tablet': [
-    'https://images.3865472.xyz/file/tablet1.jpg',
-    'https://images.3865472.xyz/file/tablet2.jpg',
+    'https://imgbed.3865472.xyz/file/tablet1.jpg',
+    'https://imgbed.3865472.xyz/file/tablet2.jpg',
   ],
   'background_pc': [
-    'https://images.3865472.xyz/file/pc1.jpg',
-    'https://images.3865472.xyz/file/pc2.jpg',
+    'https://imgbed.3865472.xyz/file/pc1.jpg',
+    'https://imgbed.3865472.xyz/file/pc2.jpg',
   ]
 }
 ```
